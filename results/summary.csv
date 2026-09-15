@@ -1,0 +1,8 @@
+competency,current,target,importance,priority
+reproducibility,5.2,8.7,0.8,2.8
+programming,5.5,8.9,0.8,2.72
+communication,2.7,5.6,0.9,2.61
+visualisation,1.5,5.3,0.6,2.28
+genomics,6.4,8.7,0.7,1.61
+statistics,3.1,4.5,0.9,1.26
+data_wrangling,6.7,8.8,0.6,1.26
